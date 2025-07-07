@@ -1,7 +1,7 @@
 # AI-DATA_ANALYSIS-agents
 
 Welcome to **AI-DATA_ANALYSIS-agents**!  
-This project aims to provide intelligent agents for automating and enhancing data analysis tasks using artificial intelligence and machine learning. The repository includes modular, extensible code to help users analyze, visualize, and interpret data efficiently.
+This project aims to provide intelligent agents for automating and enhancing data analysis tasks using AI-AGENTS. The repository includes modular, extensible code to help users analyze, visualize, and interpret data efficiently.
 
 ---
 
