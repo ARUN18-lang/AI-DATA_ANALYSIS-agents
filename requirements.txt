@@ -1,0 +1,13 @@
+langchain
+langchain_groq
+langchain_community
+langchain_core
+langchain_nvidia_ai_endpoints
+python_dotenv
+pydantic
+langgraph==0.3.1
+smolagents
+smolagents[litellm]
+e2b
+e2b-code-interpreter
+IPython
